@@ -2,7 +2,7 @@
 /** 
  * Plugin Name: Remove Website Link Input Field From Comment Form
  * Description: This plugin will help you to save your post and website from the spammers by removing the **website/URL** input field from comment section of your posts.  It's very important to be safe from the spammers because they write illegal comments and post their website link to get backlinks which can effect your post SEO and performance.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Amisha Jain
  * Author URI: https://www.amishajain.com/
  * Text Domain: remove-website-link-input-field-from-comment-form
@@ -42,4 +42,3 @@ if (!class_exists('Remove_Website_Link_Input_Field_From_Comment_Form_Of_Post_Cla
     }
 }
 new Remove_Website_Link_Input_Field_From_Comment_Form_Of_Post_Class();
-?>
